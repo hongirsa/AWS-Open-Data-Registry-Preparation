@@ -1,11 +1,11 @@
-Name: CCRS MODIS albedo over Canada at 250-m resolution and 10-day intervals on AWS |Albédo CCRS MODIS au-dessus du Canada à une résolution de 250 m et à intervalles de 10 jours sur AWS
+Name: CCRS MODIS albedo over Canada at 250-m resolution and 10-day intervals on AWS | Albédo CCRS MODIS au-dessus du Canada à une résolution de 250 m et à intervalles de 10 jours sur AWS
 Description: Times series of 10-day spectral and broadband albedo products derived at 250-m spatial resolution over Canadian territory and neighboring areas produced at the Canada Centre for Remote Sensing (CCRS) since February 2000 using MODIS L1B C6.1 swath imagery as input. The imagery for all spectral bands was downscaled and re-projected into the Lambert Conformal Conic (LCC) projection at 250-m spatial resolution.  The area size is 5,700 km � 4,800 km (22,800 pixel x 19,200 lines).
-Séries temporelles de produits d’albédo spectral et à large bande générés à des intervalles de 10 jours avec une résolution spatiale de 250 m, couvrant le territoire canadien et les régions voisines. Ces produits sont élaborés par le Centre canadien de télédétection (CCT) depuis février 2000 à partir des images MODIS L1B C6.1. Les images de toutes les bandes spectrales ont été rééchantillonnées et reprojetées en projection conforme de Lambert (LCC) à une résolution spatiale de 250 m. La zone couverte est d’environ 5 700 km par 4 800 km (22 800 pixels par 19 200 lignes).
+            Séries temporelles de produits d’albédo spectral et à large bande générés à des intervalles de 10 jours avec une résolution spatiale de 250 m, couvrant le territoire canadien et les régions voisines. Ces produits sont élaborés par le Centre canadien de télédétection (CCT) depuis février 2000 à partir des images MODIS L1B C6.1. Les images de toutes les bandes spectrales ont été rééchantillonnées et reprojetées en projection conforme de Lambert (LCC) à une résolution spatiale de 250 m. La zone couverte est d’environ 5 700 km par 4 800 km (22 800 pixels par 19 200 lignes).
 Documentation:https://data.eodms-sgdot.nrcan-rncan.gc.ca/public/CCRS/Trishchenko_MODIS_Albedo
 Contact:alexander.trichtchenko@nrcan-rncan.gc.ca
 ManagedBy:Canada Centre for Remote Sensing (CCRS), Canada Centre for Mapping and Earth Observation (CCMEO), Department of Natural Resources Canada (NRCan) https://natural-resources.canada.ca/science-data/science-research/research-centres/canada-centre-remote-sensing https://natural-resources.canada.ca/science-data/science-research/research-centres/canada-centre-mapping-earth-observation
 UpdateFrequency: Semi-annually, until the end of MODIS operations
-Deux fois par an, jusqu'à la fin des opérations MODIS
+                Deux fois par an, jusqu'à la fin des opérations MODIS
 Tags:
   - aws-pds 
   - analysis ready data
@@ -70,7 +70,7 @@ DataAtWork:
     - Title: Annual minimum snow/ice extent variations over Greenland since 2000:ice sheet, peripheral areas, and relation to ice mass balance
       URL: https://doi.org/10.1175/BAMS-D-22-0244.1
       AuthorName: Trishchenko, A.P., Ungureanu, C.
-    - Title: Landfast ice properties over the Beaufort Sea region in 2000�2019 from MODIS and Canadian Ice Service data
+    - Title: Landfast ice properties over the Beaufort Sea region in 2000-2019 from MODIS and Canadian Ice Service data
       URL: https://doi.org/10.1139/cjes-2021-0011
       AuthorName: Trishchenko, A.P., Kostylev, V.E., Luo, Y., Ungureanu, C., Whalen, D., Li, J.
     - Title: Landfast ice mapping using MODIS clear-sky composites:application for the Banks Island coastline in Beaufort Sea and comparison with Canadian Ice Service data
